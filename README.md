@@ -1,12 +1,13 @@
-<h1 align="center">i am dex</h1>
-<h3 align="center">very cool person</h3>
+# dex's GitHub Page
 
-- currently doing **stupid lua stuff**
+Developer interested in interesting & complex programming
 
-- i can collaborate on **lua or python things**
+## Skills and Interests
 
-- can help **people that need help**
+- 💻 Python, Lua, and PHP development
+- 🔐 Cybersecurity, including whitelist systems
+- 🌐 Networking and REST APIs
+- 🛡️ Obfuscation techniques
 
-<p align="center">
-<a href="https://discord.gg/hPTE9522Ue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hPTE9522Ue" height="30" width="40" /></a>
-</p>
+## Projects
+- [BrewRuin](https://github.com/Brew-Softworks/BrewRuin) - A Discord nuking utility in python
