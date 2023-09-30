@@ -11,3 +11,4 @@ Developer interested in interesting & complex programming
 
 ## Projects
 - [BrewRuin](https://github.com/Brew-Softworks/BrewRuin) - A Discord nuking utility in python
+- [RejectRobloxPatches](https://github.com/dex4tw/RejectRobloxPatches) - A ROBLOX Script archive that uses character accessories to create objects
