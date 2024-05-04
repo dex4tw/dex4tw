@@ -1,14 +1,4 @@
-# dex's GitHub Page
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.bio/dexftl)
 
-Developer interested in interesting & complex programming
 
-## Skills and Interests
-
-- 💻 Python, Lua, and PHP development
-- 🔐 Cybersecurity, including whitelist systems
-- 🌐 Networking and REST APIs
-- 🛡️ Obfuscation techniques
-
-## Projects
-- [BrewRuin](https://github.com/Brew-Softworks/BrewRuin) - A Discord nuking utility in python
-- [RejectRobloxPatches](https://github.com/dex4tw/RejectRobloxPatches) - A ROBLOX Script archive that uses character accessories to create objects
+<img src="https://pbs.twimg.com/profile_banners/920480040848183296/1714335163/600x200" width=600 height=200/>
