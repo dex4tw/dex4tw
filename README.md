@@ -8,7 +8,7 @@ src="https://img.shields.io/github/followers/dex4tw?logo=github&style=for-the-ba
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/347077478726238228" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" width="32" height="32" /></a> <a href="https://www.github.com/dex4tw" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a></a></p>
+<p align="left"> <a href="https://discord.com/users/1182072413580705902" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" width="32" height="32" /></a> <a href="https://www.github.com/dex4tw" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a></a></p>
 
 
 
