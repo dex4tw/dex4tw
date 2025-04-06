@@ -11,9 +11,7 @@ src="https://img.shields.io/github/followers/dex4tw?logo=github&style=for-the-ba
 
 [![ContextCheck](https://img.shields.io/badge/ContextCheck-Project-FF4081?logo=github&style=for-the-badge&logoColor=white&colorA=FF4081&colorB=FF4081)](https://github.com/dex4tw/ContextCheck)
 
-<a href="#">
-  <img src="https://i.ibb.co/pjCsPrDq/cooltext478370596712591.gif" />
-</a>
+Most of my projects are unlisted for commercial use
 
 ### Socials
 
