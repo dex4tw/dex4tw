@@ -4,7 +4,7 @@ src="https://img.shields.io/github/followers/dex4tw?logo=github&style=for-the-ba
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,lua,cs,rider,vscode,windows,vscodium)](#)
+[![My Skills](https://skillicons.dev/icons?i=py,lua,go,rider,vscode,windows,vscodium)](#)
 
 ### Projects
 [![Rebecca](https://img.shields.io/badge/Rebecca-Project-FF4081?logo=github&style=for-the-badge&logoColor=white&colorA=FF4081&colorB=FF4081)](https://github.com/dex4tw/Rebecca)
