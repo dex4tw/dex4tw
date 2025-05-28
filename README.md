@@ -16,7 +16,7 @@ Most of my projects are unlisted for commercial use
 ### Socials
 
 <p align="left"> 
-<a href="https://discord.com/users/1315790001069621299" target="_blank" rel="noreferrer">
+<a href="https://discord.com/users/1150166058309791835" target="_blank" rel="noreferrer">
    <img src="https://skillicons.dev/icons?i=discord" width="32" height="32"/>
 </a> 
 <a href="https://www.github.com/dex4tw" target="_blank" rel="noreferrer">
