@@ -4,7 +4,9 @@ src="https://img.shields.io/github/followers/dex4tw?logo=github&style=for-the-ba
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,lua,go,rider,vscode,windows,vscodium)](#)
+[![My Skills](https://skillicons.dev/icons?i=windows,py,lua,vscode,vscodium,flask,github,githubactions)](#)
+
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,fastapi,sqlite)](#)
 
 ### Socials
 
