@@ -30,7 +30,7 @@
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,lua,flask,github,githubactions,vscode,vscodium,windows" />
+  <img src="https://skillicons.dev/icons?i=python,lua,flask,cloudflare,github,githubactions,vscode,vscodium,windows" />
 </p>
 
 ---
